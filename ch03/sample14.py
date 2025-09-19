@@ -7,3 +7,7 @@ print(your_book)
 print(new_book)
 
 your_book[0] = 2025
+
+print('-'*30)
+print(your_book)
+print(new_book)
