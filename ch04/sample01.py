@@ -1,6 +1,6 @@
 import pandas as pd
 
-covid_file_path = '../../../Downloads/dy-202502-bigdata-app-programming-qb-main/dy-202502-bigdata-app-programming-qb-main/ch04/data/owid-covid-data.csv'
+covid_file_path = '../ch04/data/owid-covid-data.csv'
 #covid_file_path = './data/data_bar_euckr.csv'
 # df = pd.read_csv(covid_file_path, sep=',', encoding='utf-8')
 df = pd.read_csv(covid_file_path)
